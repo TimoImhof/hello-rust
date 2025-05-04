@@ -8,3 +8,7 @@ This repository will document my journey from Rust beginner to building a comple
 
 If you should stumble upon this repo and have constructive feedback on anything I am more than happy to include it!
 So I encourage you to open a new issue and explain to me what I am doing wrong! :D
+
+## Structure
+
+For now I use this repo as a Rust workspace (as explained [here](https://medium.com/@aleksej.gudkov/rust-workspace-example-a-guide-to-managing-multi-crate-projects-82d318409260)). The [Rust By Example guides](https://doc.rust-lang.org/rust-by-example/index.html) start with `rbe_xx`.
