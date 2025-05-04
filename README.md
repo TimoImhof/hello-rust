@@ -11,4 +11,4 @@ So I encourage you to open a new issue and explain to me what I am doing wrong! 
 
 ## Structure
 
-For now I use this repo as a Rust workspace (as explained [here](https://medium.com/@aleksej.gudkov/rust-workspace-example-a-guide-to-managing-multi-crate-projects-82d318409260)). The [Rust By Example guides](https://doc.rust-lang.org/rust-by-example/index.html) start with `rbe_xx`.
+For now I use this repo as a Rust workspace (as explained [here](https://medium.com/@aleksej.gudkov/rust-workspace-example-a-guide-to-managing-multi-crate-projects-82d318409260)). The [Rust By Example guides](https://doc.rust-lang.org/rust-by-example/index.html) start with `rbe_xx`; chapters of the [book](https://doc.rust-lang.org/book/title-page.html) are marked by `b_xx`.
