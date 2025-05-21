@@ -1,4 +1,4 @@
 [workspace]
 members = [ "b_02_guessing_game",
-    "rbe_01_hello_world", "b_02_guessing_game",
+    "rbe_01_hello_world", "b_02_guessing_game", "b_03",
 ]
